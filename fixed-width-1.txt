@@ -1,0 +1,11 @@
+Entry  Per  Account     Description               
+ 16524  01  3930621977  TXNPUES                     
+191675  01  2368183100  OUNHQEX            
+191667  01  3714468136  GHAKASC             
+191673  01  2632703881  PAHFSAP              
+ 80495  01  2766389794  XDZANTV                    
+ 80507  01  4609266335  BWWYEZL                   
+ 80509  01  1092717420  QJYPKVO                  
+ 80497  01  3386366766  SOQLCMU                  
+191669  01  5905893739  FYIWNKA             
+191671  01  2749355876  CBMJTLP 
